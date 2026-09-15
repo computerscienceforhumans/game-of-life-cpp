@@ -67,3 +67,33 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+# Visual Studio user-specific files
+.vs/
+*.suo
+*.user
+*.userosversion
+*.sln.docstates
+
+# Build output and intermediate directories
+Debug/
+Release/
+x64/
+x86/
+ipch/
+Build/
+bin/
+obj/
+
+# IntelliSense and browsing databases
+*.db
+*.opendb
+*.opensdf
+*.sdf
+
+# Precompiled headers and logs
+*.pch
+*.idb
+*.pdb
+*.log
