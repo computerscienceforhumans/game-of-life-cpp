@@ -2,7 +2,7 @@
 A repo containing Conway's Game of Life in C++. It was made using Visual Studio 2022.
 
 # How To Use
-1. Clone the repo
+1. Clone the repo.
 2. Double click the .slnx file to open the project in Visual Studio.
 3. Click the green arrow to run the program. Hopefully it works.
 
